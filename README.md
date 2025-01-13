@@ -53,7 +53,6 @@ The following machine learning models were trained and evaluated:
 
 ## Results
 - The **Linear SVC** was the top-performing model with an overall accuracy of **87.86%**.
-- A confusion matrix and accuracy breakdown per class were used to evaluate model performance.
 
 ---
 
